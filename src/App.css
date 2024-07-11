@@ -1,0 +1,9 @@
+.container{
+    max-width:1080px ;
+    margin: 20px auto;
+}
+.main-container{
+    background:no-repeat url("https://tse2.mm.bing.net/th?id=OIP.O39O_yFMeBBltJiwo5HUMgHaF7&pid=Api&P=0&h=180");
+    background-size: cover;
+    
+}
