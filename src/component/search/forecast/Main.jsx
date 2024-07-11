@@ -18,7 +18,7 @@ const Mian = () => {
     };
 
     fetchData();
-  }, []); // The empty dependency array ensures that useEffect runs only once (on mount)
+  }, []); 
 
   return (
     <div>
